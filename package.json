@@ -1,0 +1,17 @@
+{
+  "name": "weather_bot",
+  "version": "0.0.1",
+  "description": "A Messenger weather bot using wit.ai",
+  "main": "index.js",
+  "repository": "git@github.com:VonStruddle/weather_bot.git",
+  "author": "Durantay Quentin <quentin.durantay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.17.0",
+    "express": "^4.15.0",
+    "node-wit": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
